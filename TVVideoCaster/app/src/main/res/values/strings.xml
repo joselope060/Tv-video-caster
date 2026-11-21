@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Video Caster</string>
+    <string name="url_hint">Pega aquí el enlace de la página web</string>
+    <string name="search">Buscar vídeos</string>
+    <string name="status_idle">Introduce un enlace y pulsa «Buscar vídeos».</string>
+    <string name="searching">Buscando fuentes de vídeo…</string>
+    <string name="no_sources">No se encontraron fuentes de vídeo. Prueba a abrir otra página o inténtalo de nuevo.</string>
+    <string name="sources_found">%d fuente(s) encontradas. Elige una para abrirla en VLC.</string>
+    <string name="simulate_play">▶ Simular play</string>
+    <string name="play_tried">Play simulado. Esperando nuevas fuentes…</string>
+    <string name="load_page_first">Carga primero una página con «Buscar vídeos»</string>
+    <string name="adblock_label">Bloquear publicidad (estilo AdGuard DNS)</string>
+    <string name="update_filters">Actualizar filtros</string>
+    <string name="filters_loading">Actualizando filtros de AdGuard…</string>
+    <string name="filters_ok">Filtros actualizados: %d dominios bloqueados</string>
+    <string name="filters_fail">No se pudo descargar el filtro. Se usa la lista básica (%d dominios).</string>
+    <string name="ads_blocked_suffix"> · %d peticiones de publicidad bloqueadas</string>
+    <string name="enter_url">Introduce un enlace primero</string>
+    <string name="vlc_missing">VLC no está instalado. Abriendo la tienda…</string>
+</resources>
